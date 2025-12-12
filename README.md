@@ -2,4 +2,5 @@
 
 # Day - 03
 
-- Data Type
+- Variable and Data Type
+  -- Four Types of Data => Integers, Floats, Strings, Boolean
