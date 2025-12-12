@@ -1,7 +1,7 @@
 # Python-Sandbox
 
-# Day - 03
+## Day - 03
 
-## Variable and Data Type
+### Variable and Data Type
 
-- Four Types of Data => Integers, Floats, Strings, Boolean
+- Four Types of Data => Integer, Float, String, Boolean
